@@ -77,7 +77,7 @@ NuxtApp.hook('page:finish',()=>{
                 </div>
               </div>
             </div>
-            <p class="text-[#111518] text-base font-normal leading-normal pb-3 pt-1 px-4">IT | Algorithms | Frontend
+            <p class="text-[#111518] text-base font-normal leading-normal pb-3 pt-1 px-4">IT | Algorithms | Frontend | CTF
             </p>
             <div class="flex w-full grow bg-white @container py-3">
               <div
